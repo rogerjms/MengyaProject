@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="classes" path="src"/>
+	<classpathentry kind="var" path="JRE_LIB" rootpath="JRE_SRCROOT" sourcepath="JRE_SRC"/>
+	<classpathentry kind="lib" path="D:/Users/guixiaoke/workspace/HadoopMengyaBowtie/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Users/guixiaoke/workspace/HadoopMengyaBowtie/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Users/guixiaoke/workspace/HadoopMengyaBowtie/lib/commons-logging-api-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Users/guixiaoke/workspace/HadoopMengyaBowtie/lib/hadoop-ant-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Users/guixiaoke/workspace/HadoopMengyaBowtie/lib/hadoop-core-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Users/guixiaoke/workspace/HadoopMengyaBowtie/lib/hadoop-tools-1.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
